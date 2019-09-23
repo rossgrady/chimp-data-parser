@@ -1,4 +1,4 @@
-#!/usr/local/bin/python3
+#!/usr/bin/env python3
 
 # script to walk through a directory structure delivered by the mailchimp legal team
 # and produce a single CSV of all of the mailing list info within that directory structure
