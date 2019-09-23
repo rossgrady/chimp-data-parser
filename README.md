@@ -14,4 +14,5 @@ e.g. when doing an ls on that directory, you should see something like this:
 `drwxr-xr-x@ 96 my-user  staff    3072 Sep 23 14:37 c6ae6992-692e-47a1-b920-5d028600db62`  
 `-rw-r--r--  01 my-user  staff  235226 Sep 23 14:43 c6ae6992-692e-47a1-b920-5d028600db62.csv`  
 `-rwxr-xr-x  01 my-user  staff    2003 Sep 23 14:43 chimp-data-parser.py`  
+
 that's it, that's how it works. The CSV should have all the data.
