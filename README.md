@@ -16,3 +16,5 @@ e.g. when doing an ls on that directory, you should see something like this:
 `-rwxr-xr-x  01 my-user  staff    2003 Sep 23 14:43 chimp-data-parser.py`  
 
 that's it, that's how it works. The CSV should have all the data.
+
+One addendum: Mailchimp has this Social Profiles feature, whereby they purchase tons of information about you from a third party, FullContact, and pass it along to their list managers. This is the URL to request access to what FullContact has on you: https://www.fullcontact.com/privacy-center-2/
